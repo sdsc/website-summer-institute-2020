@@ -1,6 +1,6 @@
 # SDSC Summer Institute website
 
-To edit the content, go into the `_sections` folder, here direct link:
+To edit the content, go into the `_sections` folder, here the direct link:
 
 <https://github.com/sdsc/website-summer-institute-2020/tree/master/_sections>
 
