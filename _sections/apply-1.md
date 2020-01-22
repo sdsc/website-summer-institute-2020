@@ -28,6 +28,6 @@ cta:
 ---
 
 
-## Application to the SDSC Summer Institute 2019
+## Application to the SDSC Summer Institute 2020
 
 &nbsp;
