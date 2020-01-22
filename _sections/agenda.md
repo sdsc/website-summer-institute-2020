@@ -4,16 +4,16 @@ head:
   title: SDSC Summer Institute Agenda
 ---
 
+### <b><font color="#f03c15"> Agenda is subject to minor changes. </font></b>
 * **Lesson material repository**: <https://github.com/sdsc/sdsc-summer-institute-2020>
 * **Lesson material repository for the 2019 edition**: <https://github.com/sdsc/sdsc-summer-institute-2019>
 * Chat room: <https://gitter.im/sdsc-summer-institute-2020> (login with your Github account)
 
-### <b><font color="#f03c15"> Agenda is subject to minor changes. </font></b>
 
-## MONDAY, August 5th
+## MONDAY, August 3rd
 
-| Time | _Auditorium_ |
-| --- | --- |
+|Time| _Auditorium_ |
+|:---:|:-----------|
 |8:00 – 8:30 AM | Registration, Coffee |
 |8:30 – 10:15 AM | **Welcome** Shawn Strande, Deputy Director, SDSC <br/> **Orientation & Introductions** Bob Sinkovits, Director of Scientific Computing Applications, SDSC - Director of the Summer Institute <br/> **[Accessing and Running Jobs on Comet](https://github.com/sdsc/sdsc-summer-institute-2020/tree/master/3_running_jobs_on_comet)** _Mary Thomas, Computational Data Scientist, SDSC_ <br /> To help you get the most out of your week, this session covers the basics of accessing Comet; managing the user environment;  and compiling and running jobs. It is assumed that you have completed the [basic steps of logging onto Comet and testing your Unix skills before arriving in San Diego](https://github.com/sdsc/sdsc-summer-institute-2020/tree/master/0_preparation) |
 | 10:15 - 10:30 AM | break |
@@ -26,7 +26,7 @@ head:
 | 4:00 - 5:00 PM | **An Introduction to Singularity: Containers for Scientific and High-Performance Computing**  <br/>  _Martin Kandes_, Computational & Data Science Research Specialist, SDSC |
 | 5:30 – 8:30PM | **Reception- The Bella Vista** <br>2880 Torrey Pines Scenic Drive, La Jolla, CA 92037 <br/> _A short walk off campus, Sweater or jacket recommended_ <br/> |
 
-## TUESDAY, August 6th
+## TUESDAY, August 4th
 
 | Time | **Track 1** | **Track 2** |
 | --- | --- | --- |
@@ -36,7 +36,7 @@ head:
 | 1:30 - 5:00 PM | **Performance Tuning** <br/> _Bob Sinkovits, Director for Scientific Computing Applications, SDSC_ <br/> This session is targeted at attendees who both do their own code development and need their calculations to finish as quickly as possible. We&#39;ll cover the effective use of cache, loop-level optimizations, force reductions, optimizing compilers and their limitations, short-circuiting, time-space tradeoffs and more. Exercises will be done mostly in C, but emphasis will be on general techniques that can be applied in any language.  | **Information Visualization**<br/>  _Amit Chourasia, Senior Visualizaton Scientist, SDSC_ <br/> This tutorial will provide a ground up understanding of information visualization concepts and how they can be leveraged to select and use effective visual idioms for different data types such spreadsheet data, geospatial, graph, etc.). Attendees will go through a set of hands on exercises to create designs, decode and fix problems in existing visualization. Practical guidelines for visualization will be discussed as well. |
 
 
-## WEDNESDAY, August 7th
+## WEDNESDAY, August 5th
 
 | Time | **Track 1** | **Track 2** |
 | --- | --- | --- |
@@ -47,7 +47,7 @@ head:
 | 1:45 - 4:30 PM | **Lightning Rounds** | |
 | 4:30 - 5PM PM | **Data center tour** | |
 
-## THURSDAY, August 8th
+## THURSDAY, August 6th
 
 | Time | **Track 1** | **Track 2** |
 | --- | --- | --- |
@@ -57,7 +57,7 @@ head:
 | 1:30 – 5:00 PM | **Parallel Computing using MPI & Open MP** <br/>  _Mahidhar Tatineni, User Services Manager, SDSC_ <br/> This session is targeted at attendees who are looking for a hands-on introduction to parallel computing using MPI and Open MP programming. The session will start with an introduction and basic information for getting started with MPI. An overview of the common MPI routines that are useful for beginner MPI programmers, including MPI environment set up, point-to-point communications, and collective communications routines will be provided. Simple examples illustrating distributed memory computing, with the use of common MPI routines, will be covered. The OpenMP section will provide an overview of constructs and directives for specifying parallel regions, work sharing, synchronization and data scope. Simple examples will be used to illustrate the use of OpenMP shared-memory programming model, and important run time environment variables Hands on exercises for both MPI and OpenMP will be done in C and FORTRAN. | **Deep Learning** <br/>  _Mai Nguyen, Lead for Data Analytics, SDSC_ <br/> _Paul Rodriguez, Research Analyst, SDSC_ <br/> Deep learning, a subfield of machine learning, has seen tremendous growth and success in the past few years.  Deep learning approaches have achieved state-of-the-art performance across many domains, including image classification, speech recognition, and biomedical applications. Deep learning makes use of models that are composed of many layers of interconnected processing units.  The many layers allow for a deep network to learn representations of data at multiple and increasingly complex and task-specific levels of abstraction, leading to automatic feature learning and excellent prediction performance.  This session provides an introduction to deep learning concepts and approaches.  Case studies utilizing deep learning will be presented, and hands-on exercises will be covered using Keras.  Please note:  Knowledge of fundamental machine learning concepts and techniques is required. |
 | 5:30 – 9:00 PM | **Beach BBQ Dinner at La Jolla Shores Hotel** , _sweater or jacket recommended_ [8110 Camino Del Oro, La Jolla, CA 92037](https://www.google.com/maps/place/La+Jolla+Shores+Hotel/@32.8549788,-117.2581556,15z/data=!4m2!3m1!1s0x0:0x6e35c24121ff0362?sa=X&ved=0ahUKEwiqvO3JjbHSAhXIjlQKHdJ9CjgQ_BIIczAN) Shuttle provided from SDSC driveway |
 
-## FRIDAY, August 9th
+## FRIDAY, August 7th
 
 | Time | Title |
 | --- | --- |
