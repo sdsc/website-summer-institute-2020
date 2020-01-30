@@ -1,6 +1,6 @@
 ---
 nameID: 'majumdar'
-name: "Amit Majumdar"
+name: "Amit Majumdar, PH.D."
 avatar_path: '/img/majumdar.jpg'
 company: 'SDSC'
 jobTitle: 'Director for Data Enabled Scientific Computing (DESC)'
