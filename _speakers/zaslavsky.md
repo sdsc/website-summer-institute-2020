@@ -1,6 +1,6 @@
 ---
 nameID: 'zaslavsky'
-name: "Ilya Zaslavsky"
+name: "Ilya Zaslavsky, PH.D."
 avatar_path: '/img/zaslavsky_v3.jpg'
 company: 'SDSC'
 jobTitle: 'Director of Spatial Information Systems Lab'
