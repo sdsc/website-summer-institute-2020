@@ -1,6 +1,6 @@
 ---
 nameID: 'kandes'
-name: "Martin Kandes"
+name: "Martin Kandes, PH.D."
 avatar_path: '/img/Kandes.jpg'
 company: 'SDSC'
 jobTitle: 'Computational and Data Science Research Specialist'
