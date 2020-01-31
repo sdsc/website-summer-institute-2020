@@ -50,14 +50,12 @@ Use *"San Diego Supercomputer Center"* as destination
 A taxi or transportation service can be used from the airport.
 Helpful link for taxi service in San Diego:
 
-* [SD Taxi Cab Services](http://www.taxifarefinder.com/)
-* Yellow Cab: (619) 444-4444
-* Orange Cab: (619) 223-5555
-* SD Taxi Service: (619) 342-6494
-* San Diego Cab: (619) 226-8294
-* [Terramoto Transportation Downtown San Diego](http://www.terramoto.net/) - 619.269.7397
-* [Torrey Pines Limo](http://www.torreypineslimo.com/) - 858.997.6866
-* [Super Shuttle](http://www.supershuttle.com/Locations/SANAirportShuttleSanDiego.aspx) - 800.974.8885
+* [City Captain](https://www.citycaptain.com/) - 619.800.3515
+* [San Diego Airport Taxi](http://www.sandiegoairporttaxis.com/) - 858.227.9272
+* [San Diego Best Transportation](https://sdbesttransportation.com/) - 619.559.6246
+* [Super Shuttle](http://www.supershuttle.com) - 800.974.8885
+* [Torrey Pines Town Car](https://www.torreypinestowncar.com/) - 619.715.6767
+
 
 [Public Transportation surrounding UC San Diego](https://transportation.ucsd.edu/alternatives/transit/)
 
