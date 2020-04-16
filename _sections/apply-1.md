@@ -29,6 +29,6 @@ cta:
 
 
 ## Application to the SDSC Summer Institute 2020
-### Due to the adjustments and impact of COVID-19 we will be holding this years SDSC’s Summer Institute remotely.  We are in the process of designing the structure and will update the website as plans develop.  We encourage registration!  The application deadline remains May 3 and notification date to all applicants is May 25.
+### <b><font color="#ffbf00"> Due to the adjustments and impact of COVID-19 we will be holding this years SDSC’s Summer Institute remotely.  We are in the process of designing the structure and will update the website as plans develop.  We encourage registration!  The application deadline remains May 3 and notification date to all applicants is May 25.
 
 &nbsp;
