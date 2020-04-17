@@ -32,5 +32,8 @@ cta:
 
 ### One week of classes on all aspects of Supercomputing and Data Science to accelerate your path from Data to Discovery, August 3rd -  August 7th, 2020, San Diego Supercomputer Center
 
-### <b><font color="#ffbf00"> Due to the adjustments and impact of COVID-19 we will be holding this years SDSC’s Summer Institute remotely.  We are in the process of designing the structure and will update the website as plans develop.  We encourage registration!  The application deadline remains May 3 and notification date to all applicants is May 25.</font></b>
+### <b><font color="#ffbf00">For the first time in SDSC’s 35-year history, our annual Summer Institute will be held online. This was a difficult decision, but given the uncertainties regarding the ability to travel and availability of facilities on and near the UCSD campus during the COVID-19 pandemic, we felt this was the right choice. We will strive to provide our usual high-quality instruction and hands on activities.
+  
+### <b><font color="#ffbf00">To accommodate attendees from different time zones and adhere to guidelines regarding reasonable limits on the duration of direct online instruction, the schedule and content will be subject to change. We do expect though the choice of topics to be generally consistent with previous Summer Institutes.
+</font></b>
 &nbsp;
