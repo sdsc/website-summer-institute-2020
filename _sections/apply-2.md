@@ -39,7 +39,5 @@ Audience is generally 50/60% Graduate students and the rest Postdocs, Research s
 All attendees are required to agree with the [SDSC Summer Institute Code of Conduct](/coc/).
 
 ### Room and board scholarships
-
-In support of the Summer Institute, supported by the National Science Foundation (NSF), SDSC awards a limited number of scholarships to cover on-campus room and board (dorm style  private room, shared common area and bathrooms). **Indicate on application if you would like to be considered for room and board scholarship**. Scholarship funds only apply to room and board and are not available for any other travel expenses. Registration fee of $300 is still required from all attendees.
-Summer Institute attendance and on-campus housing is limited so you are encouraged to apply early.
+No longer applicable for the 2020 Virtual SI
 
