@@ -14,7 +14,7 @@ cta:
   subtext:
 
 ---
-###<i><font color="#f03c15">This event will be held remotely, so details below will be updated accordingly. Coming soon.
+### <i><font color="#f03c15">This event will be held remotely, so details below will be updated accordingly. Coming soon.
 ### Location, directions and parking
 
 ```
