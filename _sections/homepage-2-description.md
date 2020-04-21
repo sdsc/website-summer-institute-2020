@@ -26,7 +26,7 @@ The program includes:
 * Traditional supercomputing topics such as parallel programming with MPI/OpenMP, performance optimization, code profiling, GPU programming with CUDA and scientific visualization.
 * Modern Data Science topics like Machine Learning, Big Data processing with Spark and parallel programming with Python.
 * Topics related to reproducibility such as basic and advanced version control with git/GitHub and workflow management with Kepler.
-* An introduction to SDSC’s newest resource funded by the National Science Foundation, <i>Expanse</i>, which is scheduled to go into production in October 2020. The emphasis will be on <i>Expanse’s</i>unique features and on porting applications from <i>Comet</i>.
+* An introduction to SDSC’s newest resource, <i>Expanse</i>. The system is funded by the National Science Foundation, which is scheduled to go into production in October 2020. The emphasis will be on <i>Expanse’s</i>unique features and on porting applications from <i>Comet</i>.
 
 Moreover the attendees will have many opportunities to **meet one-on-one with SDSC's experts** to discuss in detail the best techniques to solve their specific scientific problems.
 In order to benefit from the classes, the attendees are required to have familiarity with the UNIX/Linux shell. Basic programming skills (in any programming language) are strongly recommended.
