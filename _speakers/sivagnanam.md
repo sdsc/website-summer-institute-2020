@@ -4,7 +4,7 @@ name: "Subhashini Sivagnanam"
 avatar_path: '/img/sivagnanam.jpg'
 company: 'SDSC'
 jobTitle: 'Senior Computational and Data Science Specialist'
-bio: 'Subhashini Sivagnanam is the Co-PI and the main software architect of the Neuroscience Gateway (NSG). She works for the Data Enabled Scientific Computing division at the San Diego Supercomputer Center as a senior computational and data science specialist. She has worked on various high performance computing projects since 2005. She received a M.S. in Computer Engineering from the North Carolina State University in 2004. She is a member of the Society for Neuroscience and the Organization for Computational Neurosciences.'
+bio: 'Subhashini Sivagnanam works for the Data Enabled Scientific Computing division as the principal computational and data science specialist. Her primary areas of research focus are in the fields of distributed computing/Cyberinfrastructure (CI), scientific data management and reproducible science.  She leads the Open Science Chain (OSC) project which uses blockchain to ensure integrity of scientific data. Since 2005, she has been working on various projects related to reducing the complexity of using CI resources such as developing metascheduling tools, creating science gateways, providing scientific computing support, and leading training effort.'
 email: 
 twitter:
 github:
