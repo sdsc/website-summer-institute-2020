@@ -1,7 +1,7 @@
 ---
 location: 'logistics'
 head:
-  title: 'Housing'
+  title: ''
 style:
   id: 'Logistics'
   class:
