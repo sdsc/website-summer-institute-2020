@@ -15,4 +15,4 @@ cta:
 
 ---
 
-#### No longer applicable for the 2020 Virtual SI
+#### <i><font color="#f03c15">No longer applicable for the 2020 Virtual SI
