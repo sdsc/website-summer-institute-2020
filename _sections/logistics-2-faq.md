@@ -1,7 +1,7 @@
 ---
 location: 'logistics'
 head:
-  title: 'Preparing for the remote Summer Institute'
+  title: 'Preparing for the Summer Institute'
   subtitle: 'This section will outline what will be needed in preparation for attending the Summer Institute remotely'
 style:
   id: 'Logistics'
