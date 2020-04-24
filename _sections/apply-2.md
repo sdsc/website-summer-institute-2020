@@ -38,6 +38,3 @@ Audience is generally 50/60% Graduate students and the rest Postdocs, Research s
 
 All attendees are required to agree with the [SDSC Summer Institute Code of Conduct](/coc/).
 
-### Room and board scholarships
-No longer applicable for the 2020 Virtual SI
-
