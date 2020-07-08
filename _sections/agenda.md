@@ -4,7 +4,7 @@ head:
   title: SDSC Summer Institute Agenda
 ---
 
-### <i><font color="#f03c15"> Agenda below reflects an in-person event, but this event is now being held remotely. To accommodate attendees from different time zones and adhere to guidelines regarding reasonable limits on the duration of direct online instruction, the schedule and content will be subject to change. We do expect the choice of topics to generally be consistent with previous Summer Institutes. </font>
+### <i><font color="#f03c15"> Agenda is subject to change. All times are listed in PDT. </font>
 * **Lesson material repository**: <https://github.com/sdsc/sdsc-summer-institute-2020>
 * **Lesson material repository for the 2019 edition**: <https://github.com/sdsc/sdsc-summer-institute-2019>
 * Chat room: <https://gitter.im/sdsc-summer-institute-2020> (login with your Github account)
