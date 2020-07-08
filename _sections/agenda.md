@@ -4,7 +4,8 @@ head:
   title: SDSC Summer Institute Agenda
 ---
 
-### <i><font color="#f03c15"> Agenda is subject to change. All times are listed in PDT. </font>
+### <i><font color="#f03c15"> Agenda is subject to change. Times listed below are in PDT. </font>
+* **Lesson material repository**: <https://github.com/sdsc/sdsc-summer-institute-2020>
 * **Lesson material repository**: <https://github.com/sdsc/sdsc-summer-institute-2020>
 * **Lesson material repository for the 2019 edition**: <https://github.com/sdsc/sdsc-summer-institute-2019>
 * Chat room: <https://gitter.im/sdsc-summer-institute-2020> (login with your Github account)
