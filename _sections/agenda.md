@@ -49,7 +49,7 @@ head:
 ## FRIDAY, August 7th
 
 | Time | Title |
-| --- | --- |
+|:---: |:--- |
 |8:00 - 8:30 AM |**Web Portal for Expanse** <br/> *Subhashini Sivagnanam, Senior Computational and Data Science Specialist*|
 |8:30 - 9:00 AM |**Open Science Chain** <br/> *Subhashini Sivagnanam, Senior Computational and Data Science Specialist*|
 |9:00 - 9:30 AM|**SeedMeLab**<br/> *Amit Chourasia, Senior Visualization Scientist*|
