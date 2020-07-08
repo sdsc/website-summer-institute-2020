@@ -12,7 +12,7 @@ head:
 
 ## MONDAY, August 3rd
 
-|Time| _Auditorium_ |
+|Time| |
 |:---:|:-----------|
 |8:00 - 9:00 AM |**Welcome, Orientation, & Introductions** <br/> *Bob Sinkovits, Director of Scientific Computing, SDSC & Director of the Summer Institute* |
 |9:00 - 10:00 AM |**Accessing and Running Jobs on Comet** <br/> *Mary Thomas, Computing Data Scientist, SDSC* <br/> This session covers the basics of accessing Comet; managing the user environment; and compiling and running jobs. <br/>It is assumed that you have completed the basic steps of logging onto Comet and testing your Unix skills before arriving in San Diego.|
@@ -48,7 +48,7 @@ head:
 
 ## FRIDAY, August 7th
 
-| Time | Title |
+| Time |  |
 |:---: |:--- |
 |8:00 - 8:30 AM |**Web Portal for Expanse** <br/> *Subhashini Sivagnanam, Senior Computational and Data Science Specialist*|
 |8:30 - 9:00 AM |**Open Science Chain** <br/> *Subhashini Sivagnanam, Senior Computational and Data Science Specialist*|
