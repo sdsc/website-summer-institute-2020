@@ -50,10 +50,9 @@ head:
 
 | Time |  |
 |:---:|:-----------|
-|8:00 - 8:30 AM |**Web Portal for Expanse** <br/> *Subhashini Sivagnanam, Senior Computational and Data Science Specialist*|
-|8:30 - 9:00 AM |**Open Science Chain** <br/> *Subhashini Sivagnanam, Senior Computational and Data Science Specialist*|
-|9:00 - 9:30 AM|**SeedMeLab**<br/> *Amit Chourasia, Senior Visualization Scientist*|
-|9:30 - 10:00 AM|**Jupyter Notebooks, Reverse Proxy** <br/>*Mary Thomas, Computational Scientist*|
+|8:30 - 9:00 AM |**Open Science Chain** <br/> *Subhashini Sivagnanam, Senior Computational and Data Science Specialist, SDSC*|
+|9:00 - 9:30 AM|**SeedMeLab**<br/> *Amit Chourasia, Senior Visualization Scientist, SDSC*|
+|9:30 - 10:00 AM|**Jupyter Notebooks, Reverse Proxy** <br/>*Mary Thomas, Computational Scientist, SDSC*|
 |10:00 - 10:15 AM|***Break***| 
-|10:15 - 11:45 AM|**Introduction to new projects** <br/> - Cloud Bank, *Shava Smallen, Research Programmer* <br/>- Voyager, *Amit Majumdar, Director for Data Enabled Scientific Computing (DESC)* <br/>- Expanse, *Shawn Strande, Deputy Director, SDSC* |
+|10:15 - 11:45 AM|**Introduction to new projects** <br/> - Cloud Bank, *Shava Smallen, Research Programmer, SDSC* <br/>- Voyager, *Amit Majumdar, Director for Data Enabled Scientific Computing (DESC), SDSC* <br/>- Expanse, *Shawn Strande, Deputy Director, SDSC* |
 |11:45 - 12:00 PM|**Adjourn- Wrap-up, Thank you for joining us!** <br/>*Bob Sinkovits, Director of Scientific Computing, SDSC & Director of the Summer Institute*|
