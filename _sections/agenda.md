@@ -16,9 +16,9 @@ head:
 |8:00 - 9:00 AM |**Welcome, Orientation, & Introductions** <br/> *Bob Sinkovits, Director of Scientific Computing, SDSC & Director of the Summer Institute* |
 |9:00 - 10:00 AM |**Accessing and Running Jobs on Comet** <br/> *Mary Thomas, Computing Data Scientist, SDSC* <br/> This session covers the basics of accessing Comet; managing the user environment; and compiling and running jobs. <br/>It is assumed that you have completed the basic steps of logging onto Comet and testing your Unix skills prior to the event.|
 |10:00- 10:15 AM | ***Break***|
-|10:15 - 11:45 AM|Parallel Sessions: <br/>**Introduction to version control with git and GitHub (Main Room)**<br/> *Martin Kandes, Computational & Data Science Research Specialist, SDSC* <br/>Introduction to `git` for beginners, create a repository on Github<br/><br/> **Advanced Github** <br/>*Andrea Zonca, Senior Computational Scientist, SDSC* <br/> You should be already familiar with creating Pull Requests, merging and rebasing branches|
+|10:15 - 11:45 AM|Parallel Sessions: <br/>**Introduction to version control with git and GitHub *(Main Room)**<br/> *Martin Kandes, Computational & Data Science Research Specialist, SDSC* <br/>Introduction to `git` for beginners, create a repository on Github<br/><br/> **Advanced Github  *(Breakout Room)** <br/>*Andrea Zonca, Senior Computational Scientist, SDSC* <br/> You should be already familiar with creating Pull Requests, merging and rebasing branches|
 |11:45 - 12:15 PM|***Lunch/Break***| 
-|12:15 - 1:30 PM|**Understanding Performance and Obtaining Hardware Information (Breakout Room)** <br/> *Bob Sinkovits, Director of Scientific Computing, SDSC & Director of the Summer Institute*|
+|12:15 - 1:30 PM|**Understanding Performance and Obtaining Hardware Information** <br/> *Bob Sinkovits, Director of Scientific Computing, SDSC & Director of the Summer Institute*|
 |1:30 - 2:00 PM|**An Introduction to Singularity: Containers for Scientific and High-Performance Computing** <br/> *Martin Kandes, Computational & Data Science Research Specialist, SDSC*|
 
 ## TUESDAY, August 4th
