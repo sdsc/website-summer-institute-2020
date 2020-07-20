@@ -8,6 +8,7 @@ head:
 * **Lesson material repository**: <https://github.com/sdsc/sdsc-summer-institute-2020>
 * Chat room: <https://gitter.im/sdsc-summer-institute-2020> (login with your Github account)
 
+## WEDNESDAY, July 22nd- Preparation Day
 
 ## MONDAY, August 3rd
 
