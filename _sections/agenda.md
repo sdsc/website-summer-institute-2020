@@ -6,7 +6,6 @@ head:
 
 ### <i><font color="#f03c15"> Agenda is subject to change. Times listed below are in PDT. </font>
 * **Lesson material repository**: <https://github.com/sdsc/sdsc-summer-institute-2020>
-* Chat room: <https://gitter.im/sdsc-summer-institute-2020> (login with your Github account)
 
 ## WEDNESDAY, July 22nd- Preparation Day
 
