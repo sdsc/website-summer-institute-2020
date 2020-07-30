@@ -13,13 +13,13 @@ head:
 
 |Time| |
 |:---:|:-----------|
-|8:00 - 9:00 AM |**1.1. Welcome, Orientation, & Introductions** <br/> *Bob Sinkovits, Director of Scientific Computing, SDSC & Director of the Summer Institute* |
-|9:00 - 10:00 AM |**1.2. Accessing and Running Jobs on Comet** <br/> *Mary Thomas, Computational Data Scientist, SDSC* <br/> This session covers the basics of accessing Comet; managing the user environment; and compiling and running jobs. <br/>It is assumed that you have completed the basic steps of logging onto Comet and testing your Unix skills prior to the event.|
-|10:00 - 10:30 AM| **1.3. Comet & Expanse User Portal**<br/> *Subhashini Sivagnanam, Senior Computational and Data Science Specialist, SDSC* |
+|8:00 - 9:00 AM |**1.1. Welcome, Orientation, & Introductions (Main Room)** <br/> *Bob Sinkovits, Director of Scientific Computing, SDSC & Director of the Summer Institute* |
+|9:00 - 10:00 AM |**1.2. Accessing and Running Jobs on Comet (Main Room)** <br/> *Mary Thomas, Computational Data Scientist, SDSC* <br/> This session covers the basics of accessing Comet; managing the user environment; and compiling and running jobs. <br/>It is assumed that you have completed the basic steps of logging onto Comet and testing your Unix skills prior to the event.|
+|10:00 - 10:30 AM| **1.3. Comet & Expanse User Portal (Main Room)**<br/> *Subhashini Sivagnanam, Senior Computational and Data Science Specialist, SDSC* |
 |10:30- 10:45 AM | ***Break***|
 |10:45 - 12:45 AM|Parallel Sessions: <br/>**1.4a. Introduction to version control with git and GitHub (Main Room)**<br/> *Martin Kandes, Computational & Data Science Research Specialist, SDSC* <br/>Introduction to `git` for beginners, create a repository on Github<br/><br/> **1.4b. Advanced Github (Breakout Room)** <br/> *Andrea Zonca, Senior Computational Scientist, SDSC* <br/> You should be already familiar with creating Pull Requests, merging and rebasing branches|
 |12:45 - 1:15 PM|***Lunch/Break***| 
-|1:15 - 2:00 PM|**1.5. Understanding Performance and Obtaining Hardware Information** <br/> *Bob Sinkovits, Director of Scientific Computing, SDSC & Director of the Summer Institute*|
+|1:15 - 2:00 PM|**1.5. Understanding Performance and Obtaining Hardware Information (Main Room)** <br/> *Bob Sinkovits, Director of Scientific Computing, SDSC & Director of the Summer Institute*|
 
 ## TUESDAY, August 4th
 
@@ -47,7 +47,7 @@ head:
 
 ## FRIDAY, August 7th
 
-| Time |  |
+| Time | Main Room |
 |:---:|:-----------|
 |8:30 - 9:00 AM |**5.1. An Introduction to Singularity: Containers for Scientific and High-Performance Computing** <br/> *Martin Kandes, Computational & Data Science Research Specialist, SDSC*|
 |9:00 - 9:30 AM|**5.2. SeedMeLab**<br/> *Amit Chourasia, Senior Visualization Scientist, SDSC*|
