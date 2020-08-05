@@ -53,5 +53,5 @@ head:
 |9:00 - 9:30 AM|**5.2. SeedMeLab**<br/> *Amit Chourasia, Senior Visualization Scientist, SDSC*|
 |9:30 - 10:00 AM|**[5.3 Jupyter Notebooks, Reverse Proxy](https://github.com/sdsc/sdsc-summer-institute-2020/tree/master/5.3_jupyter_notebooks)** <br/>*Mary Thomas, Computational Scientist, SDSC*|
 |10:00 - 10:15 AM|***Break***| 
-|10:15 - 11:45 AM|Introduction to new projects: <br/> - 5.4. **Cloud Bank**, *Shava Smallen, Research Programmer, SDSC* <br/>- 5.5. **Voyager**, *Amit Majumdar, Director for Data Enabled Scientific Computing (DESC), SDSC* <br/>- 5.6. **Expanse**, *Shawn Strande, Deputy Director, SDSC* |
+|10:15 - 11:45 AM|Introduction to new projects: <br/> - 5.4. **Voyager**, *Amit Majumdar, Director for Data Enabled Scientific Computing (DESC), SDSC* <br/>- 5.5. **Cloud Bank**, *Shava Smallen, Research Programmer, SDSC* <br/>- 5.6. **Expanse**, *Shawn Strande, Deputy Director, SDSC* |
 |11:45 - 12:00 PM|**Adjourn- Wrap-up, Thank you for joining us!** <br/>*Bob Sinkovits, Director of Scientific Computing, SDSC & Director of the Summer Institute*|
